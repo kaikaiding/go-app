@@ -14,5 +14,5 @@ export default defineConfig({
     },
   },
   // base: process.env.NODE_ENV === 'production' ? '/go-app/' : './',
-  base: '/go-app/'
+  base: './'
 })
